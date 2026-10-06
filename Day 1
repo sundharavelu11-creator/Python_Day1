@@ -1,0 +1,26 @@
+Python in Data Engineering
+Receive File
+    |
+Read Data
+    |
+Validate Data
+    |
+Remove Bad Records
+    |
+Transform Data
+    |
+Write Output
+    |
+Amazon S3
+    |
+AWS Glue / PySpark
+    |
+Amazon Redshift
+First Python Program - print()
+Variables
+Basic Data Types
+Type Conversion
+Operators
+Strings
+User Input - input()
+Hands-on Practice
